@@ -112,3 +112,21 @@ if __name__ == '__main__':
     print(data1)
     print(data2)
     print(dup)
+    
+    
+    #Answers: 5a) If there is no key value in data1, then the key_value data is not added to it.
+    #5b) if k in data1:
+            #v!=data1[k]
+            #if v1!=v2:
+                #dupKeys[k]=[v1,v2]
+                #del data1[k]
+            #else:
+                #data1[k]=v2
+    #5c) 4
+        #1 2
+        #2 2
+        #3 2
+        #4 7
+        #2
+        #1 1
+        #3 3
